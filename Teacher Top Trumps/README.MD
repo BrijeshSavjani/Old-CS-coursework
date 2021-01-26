@@ -8,7 +8,7 @@ case that has an inequality.
 As I made this about my teachers I have removed any personal details about them including names and sketches/images. To get the full experience I would recommend that you set it up
 with details on your teachers. Don't worry abouyt the images as if an image is not provided then it defaults back to a blank profile image.
 
-<h6>Adding Datat</h6>
+<h6>Adding Data</h6>
 Find the file TopTrumpsData.txt and simpily modify the values found in the file by default. The order of the catergories are: Name,Rating,Glasses,Coolness,Homework & image name
 
 <h6>Adding Images</h6>
