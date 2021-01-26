@@ -1,0 +1,6 @@
+C:\Users\brije\source\repos\Top Trumps\Top Trumps\obj\Debug\netcoreapp3.1\Top Trumps.csprojAssemblyReference.cache
+C:\Users\brije\source\repos\Top Trumps\Top Trumps\obj\Debug\netcoreapp3.1\Top_Trumps.Card.resources
+C:\Users\brije\source\repos\Top Trumps\Top Trumps\obj\Debug\netcoreapp3.1\Top Trumps.csproj.GenerateResource.cache
+C:\Users\brije\source\repos\Top Trumps\Top Trumps\obj\Debug\netcoreapp3.1\Top Trumps.AssemblyInfoInputs.cache
+C:\Users\brije\source\repos\Top Trumps\Top Trumps\obj\Debug\netcoreapp3.1\Top Trumps.AssemblyInfo.cs
+C:\Users\brije\source\repos\Top Trumps\Top Trumps\obj\Debug\netcoreapp3.1\Top Trumps.csproj.CoreCompileInputs.cache

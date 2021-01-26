@@ -1,0 +1,19 @@
+C:\Users\brije\source\repos\Top Trumps\Top Trumps\bin\Debug\net5.0-windows\Top Trumps.exe
+C:\Users\brije\source\repos\Top Trumps\Top Trumps\bin\Debug\net5.0-windows\Top Trumps.deps.json
+C:\Users\brije\source\repos\Top Trumps\Top Trumps\bin\Debug\net5.0-windows\Top Trumps.runtimeconfig.json
+C:\Users\brije\source\repos\Top Trumps\Top Trumps\bin\Debug\net5.0-windows\Top Trumps.runtimeconfig.dev.json
+C:\Users\brije\source\repos\Top Trumps\Top Trumps\bin\Debug\net5.0-windows\Top Trumps.dll
+C:\Users\brije\source\repos\Top Trumps\Top Trumps\bin\Debug\net5.0-windows\ref\Top Trumps.dll
+C:\Users\brije\source\repos\Top Trumps\Top Trumps\bin\Debug\net5.0-windows\Top Trumps.pdb
+C:\Users\brije\source\repos\Top Trumps\Top Trumps\obj\Debug\net5.0-windows\Top_Trumps.Form1.resources
+C:\Users\brije\source\repos\Top Trumps\Top Trumps\obj\Debug\net5.0-windows\Top Trumps.csproj.GenerateResource.cache
+C:\Users\brije\source\repos\Top Trumps\Top Trumps\obj\Debug\net5.0-windows\Top Trumps.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brije\source\repos\Top Trumps\Top Trumps\obj\Debug\net5.0-windows\Top Trumps.AssemblyInfoInputs.cache
+C:\Users\brije\source\repos\Top Trumps\Top Trumps\obj\Debug\net5.0-windows\Top Trumps.AssemblyInfo.cs
+C:\Users\brije\source\repos\Top Trumps\Top Trumps\obj\Debug\net5.0-windows\Top Trumps.csproj.CoreCompileInputs.cache
+C:\Users\brije\source\repos\Top Trumps\Top Trumps\obj\Debug\net5.0-windows\Top Trumps.dll
+C:\Users\brije\source\repos\Top Trumps\Top Trumps\obj\Debug\net5.0-windows\ref\Top Trumps.dll
+C:\Users\brije\source\repos\Top Trumps\Top Trumps\obj\Debug\net5.0-windows\Top Trumps.pdb
+C:\Users\brije\source\repos\Top Trumps\Top Trumps\obj\Debug\net5.0-windows\Top Trumps.genruntimeconfig.cache
+C:\Users\brije\source\repos\Top Trumps\Top Trumps\obj\Debug\net5.0-windows\Top_Trumps.Properties.Resources.resources
+C:\Users\brije\source\repos\Top Trumps\Top Trumps\obj\Debug\net5.0-windows\Top Trumps.csprojAssemblyReference.cache
